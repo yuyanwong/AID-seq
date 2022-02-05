@@ -1,2 +1,2 @@
 # AID-seq
-AID-seq main pipeline
+The test data and script for AID-seq
